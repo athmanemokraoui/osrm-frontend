@@ -1,0 +1,20 @@
+module.exports = {
+  name: 'Taqbaylit',
+  key: 'kab',
+  'Open in Debug Map': 'Ldi deg tkarḍa n useɣti',
+  'Open in Mapillary': 'Ldi deg Mapillary',
+  'GPX': 'Sifeḍ afaylu GPX',
+  'Open in editor': 'Ldi-t deg umaẓrag',
+  'Open in JOSM': 'Ldi-t deg JOSM',
+  'Select language': 'Fren tutlayt',
+  'Share Route': 'Bḍu abrid',
+  'Link': 'Aseɣwen',
+  'Shortlink': 'Aseɣwen amezzyan',
+  'Start - press enter to drop marker': 'Ansa ara tebduḍ - sit ɣef Sekcem akken ara tserseḍ ticreṭ',
+  'End - press enter to drop marker': 'Anda i tettedduḍ - sit ɣef Sekcem akken ara tserseḍ ticreṭ',
+  'Via point - press enter to drop marker': 'Ekk - sit ɣef Sekcem akken ara tserseḍ ticreṭ',
+  'Bike': 'Tasnasɣalt',
+  'Car': 'Takeṛṛust',
+  'Foot': 'Amsebrid',
+  'About': 'Aqeddac-a s lmendad n <a href="http://www.nine.ch/">nine</a> | <a href=/about.html>Ɣef tanfa-a akked tsertit n tbaḍnit</a>'
+};
